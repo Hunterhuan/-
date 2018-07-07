@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1530955403 source:c:\users\mr.han\desktop\sjtu oj\int_to_chinese\main.cpp
+	<iostream>
+	<cstring>
+
