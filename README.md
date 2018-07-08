@@ -30,3 +30,12 @@
 
 1. 类似于上题，通过状态树分解，深度遍历。
 2. 中间需要记录，但这次记录只需要记录整个队列的状态就可以了。
+
+## Stable_Matching
+
+稳定匹配问题。
+
+1. Gale-Shapley Algorithm
+2. Hungarian algorithm
+3. Kuhn-Munkres Algorithm
+
