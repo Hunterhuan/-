@@ -39,3 +39,9 @@
 2. Hungarian algorithm
 3. Kuhn-Munkres Algorithm
 
+## Einstein_Question
+
+爱因斯坦的思考题。推断，给定一些条件，推断。
+
+1. 所有状态进行遍历。
+2. 判断是否符合条件，如果符合就输出。需要大量计算量。
